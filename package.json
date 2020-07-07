@@ -15,7 +15,7 @@
     "url": "https://github.com/guo88882/Clock.git"
   },
   "devDependencies": {
-    "electron": "^7.1.5",
+    "electron": "^7.2.4",
     "electron-builder": "^21.2.0",
     "electron-packager": "^14.1.0"
   },
